@@ -1,0 +1,1020 @@
+CMS Manual System Department of Health &
+ Human Services (DHHS)
+
+Pub 100-04 Medicare Claims Processing Centers for Medicare &
+ Medicaid Services (CMS)
+
+Transmittal 3102 Date: November 3, 2014
+
+ Change Request 8967
+
+NOTE: This Transmittal is no longer sensitive and is being re-communicated 11-12-2014. The
+Transmittal Number, date of Transmittal and all other information remains the same. This
+instruction may now be posted to the Internet.
+
+SUBJECT: Calendar Year (CY) 2015 Participation Enrollment and Medicare Participating
+Physicians and Suppliers Directory (MEDPARD) Procedures
+
+I. SUMMARY OF CHANGES: This instruction furnishes contractors with the information needed for the
+2015 participation enrollment. The attached Recurring Update Notification applies to Chapter 1, Section
+30.3.12.
+
+EFFECTIVE DATE: November 3, 2014
+*Unless otherwise specified, the effective date is the date of service.
+IMPLEMENTATION DATE: November 7, 2014
+
+Disclaimer for manual changes only: The revision date and transmittal number apply only to red
+italicized material. Any other material was previously published and remains unchanged. However, if this
+revision contains a table of contents, you will receive the new/revised information only, and not the entire
+table of contents.
+
+II. CHANGES IN MANUAL INSTRUCTIONS: (N/A if manual is not updated)
+R=REVISED, N=NEW, D=DELETED-Only One Per Row.
+
+R/N/D CHAPTER / SECTION / SUBSECTION / TITLE
+N/A N/A
+
+III. FUNDING:
+For Medicare Administrative Contractors (MACs):
+The Medicare Administrative Contractor is hereby advised that this constitutes technical direction as defined
+in your contract. CMS does not construe this as a change to the MAC statement of Work. The contractor is
+not obliged to incur costs in excess of the amounts allotted in your contract unless and until specifically
+authorized by the Contracting Officer. If the contractor considers anything provided, as described above, to
+be outside the current scope of work, the contractor shall withhold performance on the part(s) in question
+and immediately notify the Contracting Officer, in writing or by e-mail, and request formal directions
+regarding continued performance requirements.
+
+IV. ATTACHMENTS:
+
+Recurring Update Notification
+ Attachment - Recurring Update Notification
+
+Pub. 100-04 Transmittal: 3102 Date: November 3, 2014 Change Request: 8967
+
+SUBJECT: Calendar Year (CY) 2015 Participation Enrollment and Medicare Participating
+Physicians and Suppliers Directory (MEDPARD) Procedures
+
+EFFECTIVE DATE: November 3, 2014
+*Unless otherwise specified, the effective date is the date of service.
+IMPLEMENTATION DATE: November 7, 2014
+
+I. GENERAL INFORMATION
+
+A. Background: Contractors conduct an enrollment period on an annual basis in order to provide
+eligible physicians, practitioners and suppliers with an opportunity to make their calendar year Medicare
+participation decision by December 31. Providers (physicians, practitioners, or suppliers) who want to
+maintain their current PAR status (PAR or non PAR) do not need to take any action in the upcoming annual
+participation enrollment program. To sign a participating agreement is to agree to accept assignment for all
+covered services that are provided to Medicare patients. After the enrollment period ends, contractors
+publish an updated list of participating physicians, practitioners, and suppliers in their local MEDPARDs on
+their Web sites.
+
+B. Policy: The annual participation enrollment program for CY 2015 will commence on November 14,
+2014, and will run through December 31, 2014.
+
+The purpose of this Recurring Update Notification is to furnish contractors with information needed for the
+CY 2015 participation enrollment effort. The following documents are attached:
+
+ A Participation Announcement; and
+
+ A Blank Participation Agreement.
+
+Contractors shall mail the participation enrollment postcard as directed in Publication 100-04, Chapter 1,
+section 30.3.12. Contractors shall place the new fees (physician fee schedule fees and anesthesia
+conversion factors) on their Web site for providers to access and download. The information
+contained in this Recurring Update Notification must be kept CONFIDENTIAL until the Physician
+Fee Schedule Final Rule is put on display. Fees should not be posted on the Web or be mailed until
+after the final rule is put on display.
+
+Contractors will not receive a Special Edition (SE) Medicare Learning Network (MLN) Matters article
+related to this Change Request (CR), however, be sure to post the following language on your Web site:
+
+"We encourage you to visit the Medicare Learning Network® (MLN) (http://go.cms.gov/MLNGenInfo) the
+place for official CMS Medicare Fee-For-Service provider educational information. There you can find one
+of our most popular products, MLN Matters national provider education articles. These articles help you
+understand new or changed Medicare policy and how those changes affect you. A full array of other
+educational products (including Web-based training courses, hard copy and downloadable publications,
+and CD-ROMs) are also available and can be accessed at: http://go.cms.gov/MLNProducts . You can also
+find other important physician Web sites by visiting the Physician Center Web page at:
+http://www.cms.gov/Center/Provider-Type/Physician-Center.html?redirect=/center/physician.asp .
+ In addition to educational products, the MLN also offers providers and suppliers opportunities to learn
+more about the Medicare program through MLN National Provider Calls. These national conference calls,
+held by CMS for the Medicare Fee-For-Service provider and supplier community, educate and inform
+participants about new policies and/or changes to the Medicare program. Offered free of charge, continuing
+education credits may be awarded for participation in certain National Provider Calls. To learn more about
+MLN National Provider Calls including upcoming calls, registration information, and links to previous call
+materials, visit http://www.cms.gov/Outreach-and-Education/Outreach/NPC/index.html ."
+
+In CR 7412 (Postcard Mailing for the Annual Participation Open Enrollment Period), CMS directed
+contractors to mail a postcard instead of a CD. The postcards should be mailed in time for physicians,
+practitioners, and suppliers to receive the participation enrollment material by November 14, but should not
+be mailed before November 8.
+
+The CMS plans to release the 2015 Medicare Physician Fee Schedule File, including the anesthesia file, to
+contractors electronically in late October. This data must also be kept confidential until the physician fee
+schedule final rule is put on display. CMS will send all contractors an e-mail notice when the Physician Fee
+Schedule Final Rule has been put on display.
+
+II. BUSINESS REQUIREMENTS TABLE
+
+"Shall" denotes a mandatory requirement, and "should" denotes an optional requirement.
+
+Number Requirement Responsibility Other
+8967.1
+ Contractors shall mail postcards announcing the A/B D Shared-
+ annual open participation enrollment by November 14, MAC M System
+ 2014, but not before November 8, 2014.
+ E Maintainers
+
+ A B H F MV C
+ H M I C MW
+ HAS S S F
+ CS
+
+ X
+
+ See the Internet Only Manual (IOM) Pub. 100-04,
+ Chapter 1, section 30.3.12.1 B1.
+
+8967.2 Contractors shall display the fee data prominently on X
+ their Web site.
+
+ For CY 2015 disclosure reports, contractors shall use
+ the following format for displaying fees on the Web
+ and/or hardcopy:
+
+ Procedure code (including professional and
+ technical component modifiers, as applicable);
+
+ Par amount (non-facility);
+
+ Par amount (facility-based);
+
+ Non-par amount (non-facility);
+
+ Limiting charge (non-facility);
+ Number Requirement Responsibility Other
+
+ Non-par amount (facility-based); A/B D Shared-
+ Limiting charge (facility-based); MAC M System
+ EHR Limiting Charge;
+ PQRS Limiting Charge; E Maintainers
+ EHR/ 2014 eRx-Limiting Charge;
+ EHR + PQRS Limiting Charge and A B H F MV C
+ EHR/ 2014 eRx + PQRS Limiting Charge H M I C MW
+ HAS S S F
+ CS
+
+8967.3 Contractors shall provide a link to the 2015 Medicare X
+ Fee Schedule on their Web site.
+
+ NOTE: Disclosure materials may not be posted on
+ your Web site until you receive notification from CMS
+ that the Physician Fee Schedule Final Rule has been
+ put on display.
+
+8967.4 For CY 2015 disclosure reports, contractors shall X
+ provide the anesthesia conversion factors on their Web
+ site.
+
+8967.5 Contractors shall display the fee schedule using a X
+ provider friendly format from which providers can
+ download their particular locality. Providers should
+ not have to download the whole fee schedule file.
+
+8967.6 Contractors shall post the following language on your X
+ Web site:
+
+ "We encourage you to visit the Medicare Learning
+ Network® (MLN) (http://go.cms.gov/MLNGenInfo)
+ the place for official CMS Medicare Fee-For-Service
+ provider educational information. There you can find
+ one of our most popular products, MLN Matters
+ national provider education articles. These articles
+ help you understand new or changed Medicare policy
+ and how those changes affect you. A full array of
+ other educational products (including Web-based
+ training courses, hard copy and downloadable
+ publications, and CD-ROMs) are also available and
+ can be accessed at: http://go.cms.gov/MLNProducts .
+ You can also find other important physician Web sites
+ Number Requirement Responsibility
+
+ by visiting the Physician Center Web page at: A/B D Shared- Other
+ http://www.cms.gov/Center/Provider-Type/Physician- MAC M System
+ Center.html?redirect=/center/physician.asp .
+ E Maintainers
+
+ A B H F MV C
+ H M I C MW
+ HAS S S F
+ CS
+
+ In addition to educational products, the MLN also
+ offers providers and suppliers opportunities to learn
+ more about the Medicare program through MLN
+ National Provider Calls. These national conference
+ calls, held by CMS for the Medicare Fee-For-Service
+ provider and supplier community, educate and inform
+ participants about new policies and/or changes to the
+ Medicare program. Offered free of charge, continuing
+ education credits may be awarded for participation in
+ certain National Provider Calls. To learn more about
+ MLN National Provider Calls including upcoming
+ calls, registration information, and links to previous
+ call materials, visit http://www.cms.gov/Outreach-
+ and-Education/Outreach/NPC/index.html ."
+
+8967.7 Effective immediately, contractors shall educate X
+ providers via their Web site and whatever other
+ provider outreach that can be utilized that the fees will
+ be placed on the contractor Web site after the CY
+ 2015 physician fee schedule regulation is put on
+ display.
+
+8967.8 Contractors shall prominently display the X
+ announcement and participation agreement on the
+ Web site.
+
+8967.9 Contractors shall insert their Web site address for X
+ providers to use to access the CY 2015 payment rates
+ in the space available at the end of the Participation
+ Announcement sheet.
+
+8967.10 Contractors shall insert their contractor-specific X
+ information (i.e., toll-free telephone numbers, etc.) in
+ the blank lines as indicated at the end of the
+ Participation Announcement sheet.
+
+8967.11 Contractors shall inform providers via their listserv X
+ when the CY 2015 fees are posted to their Web site.
+
+8967.12 Contractors shall NOT produce hard copy disclosures X
+ until you receive notification from CMS.
+
+ NOTE: When notified, contractors have the
+ Number Requirement Responsibility
+
+ discretion to produce no more than 2 percent hardcopy A/B D Shared- Other
+ if needed. MAC M System
+
+ E Maintainers
+
+ A B H F MV C
+ H M I C MW
+ HAS S S F
+ CS
+
+8967.12.1 Contractors shall keep track of any requests for hard X
+ copy paper disclosures.
+
+8967.12.2 Contractors shall not charge providers requesting hard X
+ copy disclosures who do not have Internet access.
+
+8967.12.3 Contractors shall mail the hard copy disclosures via X
+ first class or equivalent delivery service.
+
+8967.13 The MPFSDB will contain the CY 2015 fee schedule X
+ amounts. Contractors shall include fee amounts for
+ procedure codes with status indicators of A, T, and R
+ (if Relative Value Units (RVUs) have been established
+ by CMS). The following statements must be included
+ on the fee disclosure reports:
+
+ All Current Procedural Terminology (CPT) codes
+ and descriptors are copyrighted 2014 by the American
+ Medical Association. 
+
+ These amounts apply when service is performed in a
+ facility setting. (This statement should be made
+ applicable to those services subject to a differential
+ based on place of service.)
+
+ The payment for the technical component is capped
+ at the OPPS amount. (This statement should be made
+ applicable to services in which the technical portion
+ was capped at the Outpatient Prospective Payment
+ System amount.)
+
+ "Limiting Charge reduced based on the EHR Negative
+ adjustment program."
+
+ "Limiting Charge reduced based on the PQRS
+ Negative adjustment program."
+
+ "Limiting Charge reduced for EPs that are subject to
+ both EHR and PQRS Negative adjustment program."
+
+ See the Internet Only Manual (IOM) Pub. 100-04,
+ Chapter 1, section 30.3.12.1.
+
+8967.14 If contractors choose to use code descriptors on their X
+ Number Requirement Responsibility Other
+
+ Web site, they must use the short descriptors A/B D Shared-
+ contained in the Healthcare Common Procedure MAC M System
+ Coding System (HCPCS) file and the MPFSDB. If
+ contractors find descriptor discrepancies between E Maintainers
+ these two files, use the HCPCS file short descriptor.
+ A B H F MV C
+ H M I C MW
+ HAS S S F
+ CS
+
+ NOTE: The CMS has signed agreements with the
+ American Medical Association regarding use of CPT,
+ and the American Dental Association regarding use of
+ Current Dental Terminology (CDT), on Medicare
+ contractor Web sites, CD-ROMs, bulletin boards, and
+ other electronic communications (refer to the IOM
+ Publication 100-04, Chapter 23, section 20.7).
+
+8967.15 Contractors shall process participation elections and X
+ withdraws post-marked before January 1, 2015.
+
+8967.16 Contractors shall not print hardcopy participation X
+ directories (i.e., MEDPARDs) for CY 2015 without
+ regional office prior authorization and advanced
+ approved funding for this purpose.
+
+8967.17 If contractors receive inquiries from a customer who X
+ does not have access to the contractor Web site, they
+ shall ascertain the nature and scope of each request
+ and furnish the desired MEDPARD participation
+ information via phone or letter.
+
+8967.18 Contractors shall load their local MEDPARD X
+ information for providers on their Web site within 30
+ days following the close of the annual participation
+ enrollment process.
+
+8967.19 Contractors shall notify providers via regularly X
+ scheduled newsletters as to the availability of the
+ MEDPARD information and how to access it
+ electronically.
+
+8967.20 Contractors shall also inform hospitals and other X
+ organizations (i.e., Social Security offices, area
+ Administration on Aging offices, and other
+ beneficiary advocacy organizations) how to access
+ MEDPARD information on your Web site.
+
+8967.21 Contractors shall make sure that the Form CMS-460 is X
+ readily available on their web sites in order for their
+ providers to complete needed information and
+ Number Requirement Responsibility Other
+ download for their use.
+ A/B D Shared-
+ MAC M System
+
+ E Maintainers
+
+ A B H F MV C
+ H M I C MW
+ HAS S S F
+ CS
+
+8967.21.1 Contractors shall allow providers to enter all required X
+ information (except for the signature and effective
+ date in item 2) before printing. Then, the provider will
+ only have to print out the Form CMS-460, sign it, and
+ mail it to the contractor.
+
+8967.22 Contractors shall protect all parts of the Form CMS- X
+ 460 that do not require data entry from being altered.
+ (The provider can only be allowed to enter their
+ required information, and not change any other parts
+ of the Form CMS-460).
+
+8967.23 Contractors shall continue to plug-in the January 1, X
+ (appropriate year), effective date in item 2 of the Form
+ CMS-460 included on your web site.
+
+8967.24 If possible, contractors shall provide a count of the X
+ number of page views that the 2015 Participation
+ Announcement receives from your Web site.
+
+8967.24.1 This count shall begin November 14, 2014, through X
+ December 31, 2014.
+
+8967.24.2 Contractors shall email results of the count to the X
+ central office (CO) contact no later than January 31,
+ 2015. The CO contact is:
+
+ Mark.Baldwin@cms.hhs.gov
+
+8967.25 Contractors shall refer to the IOM Pub. 100-04, X
+ Chapter 1, section 30.3.12.1 for more information
+ about the postcard mailing and Web site.
+
+III. PROVIDER EDUCATION TABLE Responsibility
+Number Requirement
+
+ A/B D C
+
+ MAC M E
+
+ ED
+
+ ABH I
+
+ HM
+
+ HA
+
+ C
+ Number Requirement Responsibility
+
+ A/B D C
+
+ MAC M E
+
+ ED
+
+ ABH I
+
+ HM
+
+ HA
+
+ C
+
+ None
+
+IV. SUPPORTING INFORMATION
+
+Section A: Recommendations and supporting information associated with listed requirements:
+
+"Should" denotes a recommendation.
+
+X-Ref Recommendations or other supporting information:
+
+Requirement
+
+Number
+
+Section B: All other recommendations and supporting information: N/A
+
+V. CONTACTS
+
+Pre-Implementation Contact(s): Mark Baldwin, 410-786-8139 or Mark.baldwin@cms.hhs.gov
+
+Post-Implementation Contact(s): Contact your Contracting Officer's Representative (COR).
+
+VI. FUNDING
+
+Section A: For Medicare Administrative Contractors (MACs):
+The Medicare Administrative Contractor is hereby advised that this constitutes technical direction as defined
+in your contract. CMS does not construe this as a change to the MAC Statement of Work. The contractor is
+not obligated to incur costs in excess of the amounts allotted in your contract unless and until specifically
+authorized by the Contracting Officer. If the contractor considers anything provided, as described above, to
+be outside the current scope of work, the contractor shall withhold performance on the part(s) in question
+and immediately notify the Contracting Officer, in writing or by e-mail, and request formal directions
+regarding continued performance requirements.
+
+ATTACHMENTS: 2
+ Announcement
+
+ About Medicare Participation for Calendar Year 2015
+
+We wish to emphasize the importance and advantages of being a Medicare participating (PAR) provider,
+and we are pleased that the favorable trend of participation continued into 2014 with a participation rate of
+96.6 percent. As you plan for 2015 and become familiar with the coming changes, we are hopeful that you
+will continue to be a PAR provider or, if you are non-participating (Non-PAR), will consider becoming a
+PAR provider.
+
+With the help of health care professionals across the country, the Medicare program is improving
+faster than ever. The growth in spending per beneficiary is at an all-time low, which means that the
+part B beneficiary premium will not increase in 2015. At the same time, the quality of care received
+by Medicare beneficiaries continues to improve as indicated by lower hospital readmission rates,
+significant reductions in health care acquired conditions, and other measures. And, with your help,
+we can build upon these successes in the coming year by promoting the use of new preventive
+services and other strategies geared toward disease prevention, early detection, and lifestyle modifications
+that support a healthier life.
+
+WHY BECOME A PARTICIPATING MEDICARE PROVIDER
+
+All physicians, practitioners and suppliers must make their calendar year (CY) 2015 Medicare participation
+decision by December 31, 2014. Providers who want to maintain their current PAR status, or Non-PAR
+status do not need to take any action during the upcoming annual participation enrollment period. To sign a
+participation agreement is to agree to accept assignment for all covered services that you provide to
+Medicare patients in CY 2015. The overwhelming majority of physicians, practitioners and suppliers have
+chosen to participate in Medicare. As indicated, during CY 2014, 96.6 percent of all physicians and
+practitioners are billing under Medicare participation agreements.
+
+If you participate and you bill for services paid under the Medicare physician fee schedule (MPFS), your
+Medicare fee schedule amounts are 5 percent higher than if you do not participate.
+
+WHAT TO DO
+
+If you choose to be a PAR physician in CY 2015:
+
+ Do nothing if you are currently participating, or
+
+ If you are not currently a Medicare participant, complete the available blank agreement and mail it
+ (or a copy) to each Medicare Administrative Contractor (MAC) to which you submit Part B claims.
+ (On the form show the name(s) and identification number(s) under which you bill.)
+
+If you decide not to participate in CY 2015:
+
+ Do nothing if you are currently not participating, or
+
+ If you are currently a participant, write to each MAC to which you submit claims, advising of the
+ termination of your participation in the participating physician program effective January 1, 2015.
+ This written notice must be postmarked prior to January 1, 2015.
+ We hope you will decide to be a Medicare participant in CY 2015. Please call if you
+have any questions or need further information on participation.
+
+The Medicare Learning Network® (MLN) has developed products in an effort to educate Medicare
+providers about important Medicare enrollment information. These MLN® products also provide education
+to Medicare providers on how to use the Internet-based Provider Enrollment, Chain and Ownership System
+(PECOS) to enroll in the Medicare Program and maintain their enrollment information. A list of products is
+available at http://www.cms.gov/Medicare/Provider-Enrollment-and-
+Certification/MedicareProviderSupEnroll/Downloads/Medicare_Provider-
+Supplier_Enrollment_National_Education_Products.pdf on The Centers for Medicare and Medicaid
+Services (CMS) website.
+
+To view updates and the latest information about Medicare, or to obtain telephone numbers of the various
+MAC contacts including the MAC medical directors, please visit the CMS web site at http://www.cms.gov/.
+For ____ (MAC name) _____, you may contact the following toll-free number(s) for assistance:
+
+Ebola Information and Resources
+
+The Centers for Medicare and Medicaid Services (CMS) are working with our federal partners, in particular
+the Centers for Disease Control and Prevention (CDC), to respond to and prevent the further spread of the
+Ebola Virus Disease (Ebola) within the United States.
+
+The CDC has developed resources and recommendations on Ebola transmission infection prevention and
+control. We encourage you to visit the CDC Ebola Virus Disease website frequently for the latest
+information including screening and other recommendations and fact sheets for the healthcare community
+and updated Ebola case information. Updated information from CMS on this topic will be shared through
+the Medicare Learning Network (MLN), such as the MLN Connects Provider eNewsletter.
+
+There are a number of actions that you can put into practice in your healthcare setting that include the
+following:
+
+ Be sure to reach out to, and coordinate with, your local public health and emergency management
+ colleagues. Acquaint yourself with emergency plans, and best points of contact.
+
+ Post the CDC checklist and Do's and Don'ts in patient care areas.
+ Ensure that you take a travel history from any patient presenting with a febrile illness or
+
+ gastrointestinal symptoms. If a patient has been in Liberia, Sierra Leone or Guinea in the past
+ 21 days, OR has had contact with a healthcare worker who was taking care of EVD patients in
+ the past 21 days AND is febrile, they require immediate special precautions. It can be
+ challenging to differentiate flu-like illness from the early symptoms of Ebola Virus Disease. A travel
+ history is essential!
+ Make sure that your practice setting can implement your plan to handle patients who are ill and can
+ appropriately isolate the patient in a private room with a private bathroom if possible. Use the
+ highest level of personal protective equipment available in your setting until you consult with your
+ local health department or the CDC.
+ And as always, remember the importance of protecting your patients from seasonal influenza.
+ Encourage them to take the annual flu vaccine that is appropriate for them. You, your staff and their
+ family members should receive flu vaccines, as well. For more information on the seasonal flu and
+ the flu vaccine visit Flu.gov.
+
+For additional, specific guidance read the CDC's Infection Prevention and Control Recommendations. The
+checklist can be found at http://www.cdc.gov/vhf/ebola/pdf/could-it-be-ebola.pdf. The Do's and Don'ts can
+be found at http://www.cdc.gov/vhf/ebola/pdf/ambulatory-care-evaluation-of-patients-with-possible-
+ebola.pdf.
+ The Health Insurance Marketplace Expanding Health Insurance Coverage:
+
+A primary goal of the Affordable Care Act is to help uninsured and other eligible Americans gain access to
+quality, affordable health care. Central to this goal was the creation of the Health Insurance Marketplace.
+Through the Marketplace, more than 8 million eligible Americans enrolled in a private health plan. Now no
+one will be denied coverage on the basis of pre-existing conditions and there are no more lifetime or annual
+limits. As with last year, expect to see a growing number of previously uninsured patients newly covered by
+private health insurance plans and, in a growing number of states, expanded Medicaid eligibility. Many of
+these private health plans continue to develop their provider networks.
+
+For those of you whose practices are considered small businesses, please be aware of exciting enhancements
+to the Small Business Health Options Program (SHOP). Beginning on November 15, 2014, new online
+functionality and tools will be launched. In some states, employers will be able to provide multiple plan
+options to employees while receiving one bill and making one payment each month. For 2014 and 2015, the
+SHOP Marketplace is open to employers with 50 or fewer employees (FTEs). If you have fewer than 25
+employees, you may qualify for tax credits if you buy insurance through SHOP. For more information on
+SHOP, please see: https://www.healthcare.gov/small-businesses/. To see how much the tax credit could be
+worth to your bottom line, click on this SHOP tax credit estimator: https://www.healthcare.gov/small-
+business-tax-credit-calculator/.
+
+This year, the Open Enrollment period for 2015 coverage is November 15, 2014 to February 15, 2015. New
+consumers may apply for coverage in a Marketplace plan with coverage beginning as early as January 1,
+2015.
+
+You may want to inform your patients who are currently enrolled in Marketplace plans that they should
+make sure they are in the right plan for 2015. They can visit HealthCare.gov or call the Marketplace Call
+Center to report a change or view their 2015 Marketplace application. During the Open Enrollment Period
+from November 15, 2014 to February 15, 2015, they can shop in the Marketplace to find a plan that meets
+their needs for the new coverage year. After February 15, 2015, most people can't enroll or make changes
+to their plan until the next Open Enrollment Period starting in late 2015.
+
+As a trusted source for health information, your patients may look to you for help navigating the
+Marketplace. Resources concerning the Marketplace that you may find helpful to direct them to may be
+found at:
+
+ Marketplace.cms.gov: Where organizations and individuals looking for help can get the latest
+ resources and learn more about the Marketplace.
+ HealthCare.gov: Where individuals can learn about the Marketplace and the upcoming benefits
+ (including where they can find local assistance), or be connected to appropriate resources in states
+ that are running their own Marketplace.
+ Health Insurance Marketplace Call Center: If you have questions, call 1-800-318-2596. TTY
+ users should call 1-855-889-4325.
+ SHOP (Small Business) Marketplace Call Center: If you have questions, call 1-800-706-7893
+ (TTY: 711).
+
+At Marketplace.cms.gov, there are two articles particularly relevant for clinicians: 10 Things Providers
+Need to Know and 10 Things to Tell Your Patients, both available at
+http://marketplace.cms.gov/outreach-and-education/new-to-marketplace.html.
+
+New Payment and Care Delivery Model Tests at the CMS Innovation Center:
+
+Physicians can directly participate in health care transformation through the CMS Innovation Center which
+is charged with identifying, testing, and evaluating new payment and service delivery models that show
+promise of providing better access to quality care at lower costs for beneficiaries of Medicare, Medicaid and
+ the Children's Health Insurance Program (CHIP). The Innovation Center offers opportunities for innovators
+working in the field to share ideas, contribute to the discussion of improvements in health care, and
+participate in model tests.
+
+More than 37,000 providers in all 50 states, the District of Columbia, and Puerto Rico are currently
+participating in over twenty Innovation Center payment and service delivery model tests, serving an
+estimated 2.5 million beneficiaries of Medicare, Medicaid, and CHIP. Participants include states,
+organizations, and a broad array of health care professionals, as well as other stakeholders in the health care
+community. Millions of other Americans are benefiting from Innovation Center quality improvement
+initiatives and the engagement of other payers in model tests. Health care transformation initiatives at the
+state level now encompass more than 60 percent of providers nationwide and over 60 percent of the US
+population. These models are reducing costs in Medicare, Medicaid, and CHIP and enhancing the quality of
+care that our beneficiaries receive.
+The broad engagement of providers across the country in innovative payment and service delivery models is
+leading to improvement. Medicare per capita spending growth rates have reached historic lows, and hospital
+readmission rates have declined meaningfully. We encourage you to visit the CMS Innovation Center
+website at www.innovation.cms.gov for further information and for announcements of new opportunities
+including large scale transformation of clinical practices to accomplish our aims of better care and better
+health at lower costs. The result would be transformed clinical practices characterized by the delivery of
+high quality care, population-based care, cost-savings, and improved workflow.
+
+We also encourage physicians to join Million Hearts, a U.S. Department of Health and Human Services
+initiative co-led by the Centers for Disease Control and Prevention and CMS. This initiative is aimed at
+preventing 1 million heart attacks and strokes by 2017. Joining this effort means working with your staff
+and patients to excel in the ABCS: aspirin for those patients at risk; blood pressure control; cholesterol
+management; and smoking cessation. The initial milestone in Million Hearts is better blood pressure control
+for the 67 million Americans with hypertension, 36 million of whom are not yet under control. Please visit
+http://millionhearts.hhs.gov for resources that can be helpful. For questions, contact the Million Hearts team
+at millionhearts@cms.hhs.gov.
+
+Primary Care Incentives:
+
+In 2015, CMS will continue to make a 10 percent incentive payment for primary care services furnished by
+primary care practitioners as authorized by the Affordable Care Act. To be eligible for this incentive
+payment, a physician's Medicare specialty needs to be family medicine, geriatric medicine, pediatric
+medicine, or internal medicine, and primary care services need to constitute 60 percent of Medicare Part B
+outpatient services (excluding services provided to hospital inpatients or those in emergency departments) in
+2012. Nurse practitioners, clinical nurse specialists, and physician assistants are also eligible for these
+incentive payments. Also please see the Special Edition MLN Matters® Article developed by the Medicare
+Learning Network®. The article provides a list of questions and answers that respond to the inquiries CMS
+has received about the Primary Care Incentive Program. The article can be found at
+http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-
+MLN/MLNMattersArticles/downloads/mm7060.pdf on the CMS website.
+
+New for 2015, Medicare will pay for the care coordination for Medicare beneficiaries with two or more
+chronic conditions. Payments will be made for calendar months in which at least 20 minutes of care are
+furnished, but a face-to-face visit is not required. In 2015, Medicare will continue to make payments to
+physicians to coordinate a patient's care during their transition back to the community following a discharge
+from a hospital or nursing facility. More information on billing for this service is available at:
+http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-
+MLN/MLNProducts/Downloads/Transitional-Care-Management-Services-Fact-Sheet-ICN908628.pdf. We
+also answer frequently asked questions on billing for this service: http://www.cms.gov/Medicare/Medicare-
+Fee-for-Service-Payment/PhysicianFeeSched/Downloads/FAQ-TCMS.pdf.
+ Medicare Shared Savings Program:
+
+Currently, over 135,500 physicians participate in Accountable Care Organizations (ACOs) in the Medicare
+Shared Savings Program. When an ACO succeeds in both delivering high-quality care and lowering growth
+in Medicare spending on patients its providers serve, it may share in the savings it achieves for the Medicare
+program. In the first year of the program, we shared over $300 million in savings with 53 ACOs.
+
+Eligible professionals (EPs), (i.e. physicians and other practitioners), in an ACO that successfully reports the
+Physician Quality Reporting System (PQRS) Group Practice Reporting Option (GPRO) option web interface
+quality measures required under the Shared Savings Program in any year of the program will be deemed
+eligible for the PQRS bonus and/or avoid the PQRS payment adjustment, regardless of whether the ACO
+qualifies to share in savings. In addition, EPs participating in the Shared Savings Program will satisfy your
+Clinical Quality Measure (CQM) reporting requirements for the Electronic Health Record (EHR) Incentive
+Program if the ACO satisfactorily reports quality measure data via the ACO GPRO web interface and the
+EPs meet the other program requirements for Meaningful Use Stage 2. Groups of physicians that participate
+in an ACO are also exempt from the application of the 2016 Value-Based Payment Modifier (VM)
+adjustment.
+
+We encourage physicians and other practitioners to collaborate with your ACOs so that together you can
+achieve the goals of the program including successful reporting and performance on quality measures.
+
+We encourage you to consider forming or joining an ACO under the Medicare Shared Savings Program.
+Please visit the Medicare Shared Savings Program webpage for more information about the program
+including how to apply or learn about ACOs in your area - http://www.cms.gov/Medicare/Medicare-Fee-for-
+Service-Payment/sharedsavingsprogram/
+
+Engaging Physicians in Quality:
+
+CMS recognizes that physician practices vary and measurement must be meaningful and relevant to clinical
+practice. Engaging in quality reporting and improvement requires significant time and resources from
+providers and their practices. Thus, developing quality programs that maximize flexibility, while
+minimizing burden, is critical. This principle is reflected in ongoing improvements to CMS quality
+programs, such as:
+
+ Providers can choose quality measures that best reflect their practice and how they are reported
+ to CMS;
+
+ Many providers may be able to report quality measures one time during the 2015 program year in
+ order to avoid the 2017 PQRS negative payment adjustment, satisfy the CQM component of the
+ Medicare EHR Incentive Program, and satisfy requirements regarding the 2016 VM adjustment.
+ Please note that this option applies to specific reporting options. Please read program
+ requirements for more information; website URLs for each program are listed below;
+
+ Providers and others can contribute new quality measures through open calls for measures and
+ advocate for measures through the Measures Application Partnership (MAP). For More
+ information about the MAP, please visit:
+ http://www.qualityforum.org/Setting_Priorities/Partnership/Measure_Applications_Partnership.a
+ spx;
+
+ CMS is aligning related measures across CMS programs and collaborating with private payers to
+ reduce provider reporting burden;
+
+ Providers have over 5 mechanisms available for PQRS reporting, allowing providers to choose a
+ mechanism that works best for them;
+
+ The availability of the MLN® YouTube video regarding Implications for the Value-Based
+ Payment Modifier can be found at: http://www.youtube.com/watch?v=ZxIiW33jkSs.
+ CMS believes that providers are leaders in quality improvement. CMS will continue its efforts to
+collaborate with physicians and other healthcare professionals to facilitate quality improvement through
+quality reporting programs such as the PQRS and pay for performance programs such as the VM
+program. The VM program links quality to payment by providing differential payment to physicians
+based on the quality and cost of care furnished to Medicare patients.
+
+Availability of the 2013 Quality and Resource Use Reports (QRURs):
+
+On September 30, 2014, CMS provided QRURs to all groups of physicians and to solo practitioners. The
+2013 QRURs contain data regarding quality and cost of care for calendar year 2013. This is the same
+performance period that was used to calculate the VM that will be applied to physician payments for items
+and services furnished under the MPFS for groups of 100 or more EPs in 2015. For physicians and groups
+of physicians in groups of 100 or more EPs, the QRURs will provide information on how the group's quality
+and cost performance will affect their 2015 Medicare payments through the application of the VM. VM
+payment adjustments will not be applied to groups of fewer than 100 EPs in 2015.
+
+For group practices with fewer than 100 EPs and for solo practitioners, the QRUR is for informational
+purposes. It can help your group understand and improve the quality and efficiency of care it provides to
+Medicare beneficiaries. The reports provide detailed information about the beneficiaries your practice
+services including information on where they were hospitalized and for what conditions. You may get
+information on how to access your report at: https://www.cms.gov/Medicare/Medicare-Fee-for-Service-
+Payment/PhysicianFeedbackProgram/Self-Nomination-Registration.html.
+
+Medicare and Medicaid EHR Incentive Programs:
+
+In 2015, providers will report using the 2014 edition of the Certified Electronic Health Record Technology
+(CEHRT) and will use the 2014 definition of meaningful use for Stage 1 or Stage 2 as appropriate.
+Returning providers will report for the entire calendar year and attest between January 1 through February
+29, 2016. Providers who are attesting for the first time will report for any consecutive 90 days in the
+calendar year to avoid a Medicare payment adjustment. These providers are not eligible for Medicare
+incentives, but may be eligible for a Medicaid incentive.
+
+In order to align programs and reduce the burden on physicians and providers, physicians may
+simultaneously submit CQM data for both the Medicare EHR Incentive Program and the PQRS program
+electronically. Eligible hospitals and critical access hospitals may do the same through the Inpatient Quality
+Reporting Program. All physicians and providers beyond the first year of demonstrating meaningful use
+will be able to report clinical quality measures electronically. For more information about the EHR
+Incentive Programs visit www.cms.gov/EHRIncentivePrograms.
+
+Those who fail to meet meaningful use for the applicable period may be subject to a payment adjustment to
+their Medicare claims. In 2015, the result will be payment of 99% of the MPFS amount. EPs must
+successfully demonstrate meaningful use every year to avoid the Medicare payment adjustments.
+Demonstration of meaningful use in 2015 will enable providers to avoid the payment adjustment in 2017.
+Providers who did not successfully demonstrate meaningful use in 2014 will receive a payment adjustment
+in 2016. Providers also have the option of filing a significant hardship exception application by July 1,
+2015. Don't wait until the last minute to meet meaningful use! For more information about payment
+adjustments, please visit http://www.cms.gov/Regulations-and-
+Guidance/Legislation/EHRIncentivePrograms/Downloads/PaymentAdj_HardshipExcepTipSheetforEP.pdf.
+
+The MLN® has also developed a quick reference guide about EHR reporting. This educational tool is
+available at http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-
+MLN/MLNProducts/Downloads/PQRS-EHR-Incentive-Pilot-Quick-Ref-Guide.pdf on the CMS website.
+ Incentives and Payment Adjustments for Quality Reporting:
+
+EPs should note that 2015 will also serve as the reporting period for the 2017 PQRS payment adjustment.
+The payment adjustment for 2017 based on 2015 reporting is negative 2.0%. The reporting requirements to
+avoid the 2017 PQRS payment adjustment are detailed in the CYs 2014 and 2015 MPFS Final Rules. More
+information will be available on the program websites (links below) soon.
+
+Please use the links below for more detailed information about CMS quality reporting programs.
+
+PQRS website: http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-
+Instruments/PQRS/index.html
+
+Medicare EHR Incentive Program: http://www.cms.gov/Regulations-and-
+Guidance/Legislation/EHRIncentivePrograms/index.html?redirect=/ehrincentiveprograms/
+
+VM: http://www.cms.gov/Medicare/Medicare-Fee-for-Service-
+Payment/PhysicianFeedbackProgram/ValueBasedPaymentModifier.html
+
+Information Related to Medicare Prescription Drug (Part D) Coverage:
+
+Prescriber Enrollment in Medicare
+
+Beginning June 1, 2015 physicians and EPs who write prescriptions for Part D drugs are required to be
+enrolled in Medicare in an approved status or have a valid record of opting out of Medicare for their
+prescriptions to be covered under Part D. Medicare prescription drug benefit plans will validate whether the
+prescriber is enrolled or has opted out of Medicare as part of determining whether the drug is coverable
+under Part D when the beneficiary's prescription is filled at the pharmacy. A provider may enroll or opt out
+of Medicare by submitting to their MAC one of the following documents:
+
+ A CMS-855I application (allows the physician to enroll in Medicare to bill for services; order and
+ certify services and items; and to prescribe Part D drugs): or
+
+ A CMS-855O application (allows the physician to enroll in Medicare to order and certify services
+ and items, and to prescribe Part D drugs; however, this option does not confer billing privileges): or
+
+ An opt out affidavit (physician agrees to opt out of the Medicare program for a period of two years
+ and to meet certain other criteria).
+
+As part of the enrollment process, provider credentials and eligibility are verified. Requiring Medicare
+prescription drug benefit plans to validate a provider's Medicare enrollment status improves CMS' ability to
+protect the Part D program from fraud and abuse. To avoid the denial of coverage of Part D prescriptions
+due to your failure to enroll or opt-out, please note the following information:
+
+ Be sure to maintain an active enrollment or opt out status with Medicare;
+
+ Encourage your colleagues who are not enrolled in Medicare to enroll in advance of June 1, 2015.
+ The options available for enrolling or opting out are identified above. For more information, please
+ refer to the enrollment product entitled, Medicare Enrollment Guidelines for Ordering/Referring
+ Providers at http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-
+ MLN/MLNProducts/Downloads/MedEnroll_OrderReferProv_FactSheet_ICN906223.pdf or SE1311
+ - Opting out of Medicare and/or Electing to Order and Refer Services at
+ http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-
+ MLN/MLNMattersArticles/downloads/SE1311.pdf;and
+ If you supervise residents as a teaching physician, and the resident writes prescriptions for Medicare
+ beneficiaries under your name and National Provider Identifier (NPI) number, beginning June 1,
+ 2015, the resident should enroll in Medicare (if eligible). CMS encourages prescribers to include
+ your individual NPI on prescriptions in order to avoid follow up from pharmacies and Part D
+ prescription drug benefit plans when processing a Medicare beneficiary's prescription. Residents
+ may also refer to the document at the link noted just above for more information about enrollment in
+ Medicare.
+
+NPPES Taxonomy
+
+Please check your data in the National Plan and Provider Enumeration System (NPPES) and confirm that it
+still correctly reflects you as a health care provider. There is increased focus on the NPI as a health care
+provider identifier for program integrity purposes. Incorrect taxonomy data in NPPES may lead to
+unnecessary inquiries about your credentials as it may appear to Medicare oversight authorities that you may
+not be lawfully prescribing Part D drugs. Comprehensive information about how the NPI rule pertains to
+prescribers may be obtained from the CMS website at: http://www.cms.gov/Regulations-and-
+Guidance/HIPAA-Administrative-Simplification/NationalProvIdentStand/Downloads/NPI-Requirements-
+for-Prescribers.pdf.
+
+Prescription Drug Abuse
+
+Prescription drug abuse is the nation's fastest growing drug problem. Additional prescriber awareness and
+engagement are crucial to addressing this problem. CMS has implemented an approach to help Medicare
+prescription drug plans identify and manage the most egregious cases of opioid overutilization, which often
+involves multiple prescribers and pharmacies who are not aware of each other. If you are contacted by a
+prescription drug plan about the opioid use of one of your patients, please take the time to provide your
+feedback and expertise to help assure the safe use of these products.
+
+Many states have operational Prescription Drug Monitoring Programs (PDMPs). PDMPs are tools used by
+states to reduce prescription drug abuse and diversion. We encourage you to actively participate in your
+state's PDMP. For more information about your state's PDMP program and how to obtain access, please
+visit the following website: http://www.pmpalliance.org/content/pmp-access.
+
+Prescriber Identifiers in Research
+
+You should be aware that CMS now allows researchers to request the release of unencrypted prescriber
+identifiers contained in Medicare Part D data. This change in policy now gives researchers the ability to
+conduct important research that involves identified prescribers, which will increase the positive
+contributions researchers make to the evaluation and function of the Part D program. This access supports
+CMS's growing role as a value-based purchaser of health care, and is only granted pursuant to CMS'
+policies and procedures for release of such data to researchers.
+
+Serving Qualified Medicare Beneficiaries (QMBs):
+
+Many Medicare beneficiaries with limited incomes and resources are also covered by their state's Qualified
+Medicare Beneficiary (QMB) program. This means that the state Medicaid agency is responsible for these
+beneficiaries' Medicare cost sharing. We encourage all Medicare physicians and other practitioners to serve
+individuals eligible for the QMB program.
+
+We also remind all Medicare physicians and other practitioners that they may not balance bill their QMB
+patients for Medicare cost sharing, including deductibles, coinsurance, and copayments. Under federal law,
+Medicare payment plus any Medicaid payment are considered payment in full for services rendered to a
+beneficiary participating in the QMB program. Physicians and other practitioners may want to refresh their
+understanding of how their state handles QMB cost sharing claims. In most states, claims submitted to
+ Medicare are crossed over automatically to the state Medicaid agency. States may require providers to
+register with their State payment system in order to receive cost sharing payments. More information on
+billing procedures for QMBs is available at: http://www.cms.gov/Outreach-and-Education/Medicare-
+Learning-Network-MLN/MLNMattersArticles/downloads/SE1128.pdf.
+
+We understand that the intersection between Medicare and Medicaid is complex. If you have any questions
+about serving QMBs, please contact MedicareMedicaidCoordination@cms.hhs.gov.
+
+Revalidation:
+
+Over the coming months, many providers will receive requests from their respective MACs to revalidate
+their Medicare enrollment information. Providers can revalidate their enrollment information using either
+the Internet-based Provider Enrollment, Chain and Ownership System found at
+https://pecos.cms.hhs.gov/pecos/login.do or the CMS-855 paper application found at
+http://www.cms.gov/CMSForms/CMSForms/list.asp. CMS encourages all practitioners to respond timely to
+revalidation requests received by their MAC. Failure to submit a complete revalidation application,
+including all supporting documents, may result in deactivation of your Medicare billing privileges.
+
+Please refer to the MLN Matters® Special Edition Article on this subject at http://www.cms.gov/Outreach-
+and-Education/Medicare-Learning-Network-MLN/MLNMattersArticles/downloads/SE1126.pdf on the
+CMS website.
+
+The Medicare Learning Network®:
+
+The MLN® now offers a weekly electronic newsletter, the MLN Connects Provider eNews. View past
+editions at http://www.cms.gov/Outreach-and-Education/Outreach/FFSProvPartProg/Provider-Partnership-
+Email-Archive.html. The clickable table of contents allows health care professionals to move directly to
+items of interest, such as upcoming calls and events; and CMS program information, including ICD-10,
+EHR incentive programs, Medicare enrollment, CMS quality incentive programs and MLN® educational
+materials. To subscribe, go to
+https://public.govdelivery.com/accounts/USCMS/subscriber/new?pop=t&topic_id=USCMS_7819. All you
+need is a valid e-mail address.
+
+The MLN® also provides two electronic mailing lists to help health care professionals stay informed about
+the latest MLN® educational products and MLN Matters® articles.
+
+ MLN® Educational Products Electronic Mailing List: MLN® Products are designed to provide
+ education on a variety of CMS programs, including provider supplier enrollment, preventive
+ services, provider compliance, and Medicare payment policies. All products are free of charge and
+ offered in a variety of formats to meet your educational needs. For information on how to subscribe
+ to this mailing list, go to http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-
+ MLN/MLNProducts/downloads/MLNProducts_listserv.pdf on the CMS website.
+
+ MLN Matters® Articles Electronic Mailing List: MLN Matters® are national articles that educate
+ health care professionals about important changes to CMS programs. Articles explain complex
+ policy information in plain language to help health care professionals reduce the time it takes to
+ incorporate these changes into their CMS-related activities. For information on how to subscribe to
+ this mailing list, go to http://www.cms.gov/Outreach-and-Education/Medicare-Learning-Network-
+ MLN/MLNProducts/Downloads/What_Is_MLNMatters.pdf on the CMS website.
+
+For more information about MLN® products and services, visit the MLN® General Information web page
+at http://go.cms.gov/MLNGenInfo on the CMS website.
+ OMB No. 0938-0373
+
+ MEDICARE
+ PARTICIPATING PHYSICIAN OR SUPPLIER AGREEMENT
+
+Name(s) and Address of Participant* National Provider Identifier (NPI)*
+
+The above named person or organization, called "the participant," hereby enters into an agreement with the
+Medicare program to accept assignment of the Medicare Part B payment for all services for which the
+participant is eligible to accept assignment under the Medicare law and regulations and which are furnished
+while this agreement is in effect.
+
+ 1. Meaning of Assignment - For purposes of this agreement, accepting assignment of the Medicare
+Part B payment means requesting direct Part B payment from the Medicare program. Under an assignment,
+the approved charge, determined by the Medicare Administrative Contractor (MAC)/carrier, shall be the full
+charge for the service covered under Part B. The participant shall not collect from the beneficiary or other
+person or organization for covered services more than the applicable deductible and coinsurance.
+
+ 2. Effective Date - If the participant files the agreement with any MAC/carrier during the enrollment
+period, the agreement becomes effective __________________.
+
+ 3. Term and Termination of Agreement - This agreement shall continue in effect through December
+31 following the date the agreement becomes effective and shall be renewed automatically for each 12-
+month period January 1 through December 31 thereafter unless one of the following occurs:
+
+ a. During the enrollment period provided near the end of any calendar year, the participant
+notifies in writing every MAC/carrier with whom the participant has filed the agreement or a copy of the
+agreement that the participant wishes to terminate the agreement at the end of the current term. In the event
+such notification is mailed or delivered during the enrollment period provided near the end of any calendar
+year, the agreement shall end on December 31 of that year.
+
+ b. The Centers for Medicare & Medicaid Services may find, after notice to and opportunity for a
+hearing for the participant, that the participant has substantially failed to comply with the agreement. In the
+event such a finding is made, the Centers for Medicare & Medicaid Services will notify the participant in
+writing that the agreement will be terminated at a time designated in the notice. Civil and criminal penalties
+may also be imposed for violation of the agreement.
+
+_________________________ ________________________ ___________
+ Signature of participant Title Date
+
+(or authorized representative (if signer is authorized
+of participating organization) representative of organization)
+
+(including area code)
+Office phone number
+
+*List all names and the NPI under which the participant files claims with the MAC/carrier with whom this
+agreement is being filed.
+
+CMS-460 (4/10)
+
+ 2
+
+Received by
+(name of MAC/carrier)
+
+Effective date
+
+Initials of carrier official
+
+According to the Paperwork Reduction Act of 1995, no persons are required to respond to a collection of information unless it displays a valid
+OMB control number. The valid OMB control number for this information collection is 0938-0373. The time required to complete this
+ information collection is estimated to average 15 minutes per response, including the time to review instructions, search existing data resources,
+gather the data needed and complete and review the information collection. If you have any comments concerning the accuracy of the time
+estimate(s) or suggestions for improving this form, please write to: CMS, 7500 Security Boulevard, Attn: PRA Reports Clearance Officer,
+Baltimore, Maryland 21244-1850.
