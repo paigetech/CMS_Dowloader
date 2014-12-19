@@ -1,8 +1,80 @@
 <doc> 
-:::date 2014-11-21
-:::uid mrepm10004R3129CP
-:::index mrepm10004R3129CP
-:::file \R3129CP.pdf
-:::wn 2014-12-2
-<h4>Transmittal #3129 Date: November 21, 2014 - CY 2015 Update for Durable Medical Equipment, Prosthetics, Orthotics and Supplies. (PDF)</h4>
+:::date 2014-12-12
+:::uid mrepm10004r3147cp
+:::index mrepm10004r3147cp
+:::file \r3147cp.pdf
+:::wn 2014-12-19
+<h4>Transmittal #3147 Date: December 12, 2014 - Calendar Year (CY) 2015 Rural Health Clinic (RHC) and Federally Qualified Health Centers (FQHC) Updates: Payment Rate Increases for RHCs and FQHCs Billing Under the All- Inclusive Rate System (AIR) and Urban and Rural Designations for FQHCs Billing Under the AIR. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-11
+:::uid mrepm10020r1447otn
+:::index mrepm10020r1447otn
+:::file \r1447otn.pdf
+:::wn 2014-12-19
+<h4>Transmittal #1447 Date: December 11, 2014 - Change in Applying Co-insurance and Lifetime Reserve (LTR) Amounts on Informational Only Claims with Condition Code (CC) 04 *Rescinds and Replaces Transmittal 1403, dated August 1, 2014*. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-17
+:::uid mrepm10020r1448otn
+:::index mrepm10020r1448otn
+:::file \r1448otn.pdf
+:::wn 2014-12-19
+<h4>Transmittal #1448 Date: December 17, 2014 - Fee for Service Beneficiary Data Streamlining (FFS BDS) Updates to Operational Issues *Rescinds and Replaces Transmittal 1429, dated October 1, 2014*. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-05
+:::uid mrepm10003r178ncd
+:::index mrepm10003r178ncd
+:::file \r178ncd.pdf
+:::wn 2014-12-19
+<h4>Transmittal #178 Date: December 5, 2014 - Transcatheter Mitral Valve Repair (TMVR)-National Coverage Determination (NCD). (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-05
+:::uid mrepm10004r3142cp
+:::index mrepm10004r3142cp
+:::file \r3142cp.pdf
+:::wn 2014-12-19
+<h4>Transmittal #3142 Date: December 5, 2014 - Transcatheter Mitral Valve Repair (TMVR)-National Coverage Determination (NCD). (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-12
+:::uid mrepm10004r3150cp
+:::index mrepm10004r3150cp
+:::file \r3150cp.pdf
+:::wn 2014-12-19
+<h4>Transmittal #3150 Date: December 12, 2014 - January 2015 Update of the Hospital Outpatient Prospective Payment System (OPPS). (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-12
+:::uid mrepm10002r201bp
+:::index mrepm10002r201bp
+:::file \r201bp.pdf
+:::wn 2014-12-19
+<h4>Transmittal #201 Date: December 12, 2014 - Medicare Benefit Policy Manual - RHC and FQHC Update - Chapter 13. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-17
+:::uid mrepm10004r3151cp
+:::index mrepm10004r3151cp
+:::file \r3151cp.pdf
+:::wn 2014-12-19
+<h4>Transmittal #3151 Date: December 17, 2014 - Correction to Remittance Information When HIPPS Codes are Re-coded by Medicare Systems *Rescinds and Replaces Transmittal 3104, dated November 6, 2014*. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-12
+:::uid mrpm10008r561pi
+:::index mrpm10008r561pi
+:::file \r561pi.pdf
+:::wn 2014-12-19
+<h4>Transmittal #561 Date: December 12, 2014 - Incorporation of Certain Provider Enrollment Policies in CMS-4159-F into Pub. 100-08, Program Integrity Manual (PIM), Chapter 15. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2014-12-12
+:::uid mrepm10007r130soma
+:::index mrepm10007r130soma
+:::file \r130soma.pdf
+:::wn 2014-12-19
+<h4>Transmittal #130 Date: December 12, 2014 - Revisions to State Operations Manual (SOM), Appendix PP Guidance to Surveyors for Long Term Care Facilities . (PDF)</h4>
 </doc>

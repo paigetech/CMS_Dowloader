@@ -3,7 +3,7 @@ var request = require('request');
 
 
 //call this sync so that we know the file is loaded in
-var loadedFile = fs.readFileSync('test.txt', 'utf8');
+var loadedFile = fs.readFileSync('source.html', 'utf8');
 
 var re = /src=\"(https:\/\/s\d\.amazonaws\.com\/images\.federalregister\.gov\/.*?\/\w+\.\w{3})\"/ig;
 
@@ -23,7 +23,7 @@ console.log('complete');
 captures.forEach(function(url) {
   var re = /https:\/\/s\d\.amazonaws\.com\/images\.federalregister\.gov\/([\d\w\.]+)\/\w+\.\w{3}/ig;
   var fileVar = re.exec(url);
-  var fileName = fileVar[1] + '.png';
+  var fileName = fileVar[1].toLowerCase() + '.png';
 
   request(url).pipe(fs.createWriteStream(fileName));
 

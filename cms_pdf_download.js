@@ -1,6 +1,8 @@
 var fs = require('fs');
 var request = require('request');
 var myArgs = process.argv.slice(2);
+var pdfParse = require('./pdfParse');
+var exec = require('child_process').exec;
 
 //load the file from the argument
 var loadedFile = fs.readFileSync(myArgs[0], 'utf8');
@@ -17,9 +19,15 @@ filesToGet.forEach(function(fileName, err) {
   //save/download the file
   request(url).pipe(fs.createWriteStream(fileName));
 
+  //run the pdfparse to have the text outputs
+  exec('node pdfParseStandAlone.js ' + fileName , function(error, stdout, stderr) {
+    console.log('stdout: ', stdout);
+    console.log('stderr: ', stderr);
+    if (error !== null) {
+      console.log('exec error: ', error);
+    }
+  });
 
   if (err) console.log(err);
 
 });
-
-
