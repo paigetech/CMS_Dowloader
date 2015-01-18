@@ -42,15 +42,15 @@ textract(filePath, config, function( err, text ) {
   dateParse.shift();
 
   var months = {
-    "January" : 1,
-    "February" : 2,
-    "March" : 3,
-    "April" : 4,
-    "May" : 5,
-    "June" : 6,
-    "July" : 7,
-    "August" : 8,
-    "September" : 9,
+    "January" : 01,
+    "February" : 02,
+    "March" : 03,
+    "April" : 04,
+    "May" : 05,
+    "June" : 06,
+    "July" : 07,
+    "August" : 08,
+    "September" : 09,
     "October" : 10,
     "November" : 11,
     "December" : 12
@@ -68,7 +68,8 @@ textract(filePath, config, function( err, text ) {
 
   var dateNow = function() {
     var dateNow = new Date();
-    var dd = dateNow.getDate();
+    var dateSingleDigit = dateNow.getDate(), 
+    dd = dateSingleDigit < 10 ? '0' + dateSingleDigit : dateSingleDigit;
     var monthSingleDigit = dateNow.getMonth() + 1,
     mm = monthSingleDigit < 10 ? '0' + monthSingleDigit : monthSingleDigit;
     var yy = dateNow.getFullYear().toString();
@@ -80,7 +81,7 @@ textract(filePath, config, function( err, text ) {
     var monthSingleDigit = dateNow.getMonth() + 1,
     mm = monthSingleDigit < 10 ? '0' + monthSingleDigit : monthSingleDigit;
     var yy = dateNow.getFullYear().toString();
-    return (mm + "/" + dd + "/" + yy.slice(0,2));
+    return (mm + "/" + dd + "/" + yy.slice(2,0));
   };
 
   //var transmittal = pdf.slice(1,5);
@@ -176,8 +177,8 @@ textract(filePath, config, function( err, text ) {
         attachments = attachments + "<doc> \n:::date " + mrDate + "\n:::uid " + collection + pdf + "busreq\n:::index " + collection + pdf + "busreq\n:::file \\" + pdf + ".pdf\n:::wn " + dateNow() + "\n<h4>" + dateNowStandard() + " Transmittal #" + transmittal + " " + subject + " (PDF)</h4>\n</doc>\n";
       }
       attachments = attachments + "\n";
+      fs.appendFileSync('attachments.txt', attachments);
     }
 
   fs.appendFileSync('allTransmittals.txt', doc);
-  fs.appendFileSync('attachments.txt', attachments);
 });
