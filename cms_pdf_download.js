@@ -17,16 +17,22 @@ filesToGet.forEach(function(fileName, err) {
   console.log(url);
 
   //save/download the file
-  request(url).pipe(fs.createWriteStream(fileName));
+  var r = request(url).pipe(fs.createWriteStream(fileName));
 
-  //run the pdfparse to have the text outputs
-  exec('node pdfParseStandAlone.js ' + fileName , function(error, stdout, stderr) {
-    console.log('stdout: ', stdout);
-    console.log('stderr: ', stderr);
-    if (error !== null) {
-      console.log('exec error: ', error);
-    }
+  r.on('finish', function(){
+
+    //run the pdfparse to have the text outputs
+    exec('node pdfParseStandAlone.js ' + fileName , function(error, stdout, stderr) {
+      console.log('stdout: ', stdout);
+      console.log('stderr: ', stderr);
+      if (error !== null) {
+        console.log('exec error: ', error);
+      }
+    });
+  
   });
+
+
 
   if (err) console.log(err);
 

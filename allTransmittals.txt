@@ -1,0 +1,56 @@
+<doc> 
+:::date 2015-02-27
+:::uid mrepm10004r3205cp
+:::index mrepm10004r3205cp
+:::file \r3205cp.pdf
+:::wn 2015-03-05
+<h4>Transmittal #3205 Date: February 27, 2015 - Quarterly Update to the Medicare Physician Fee Schedule Database (MPFSDB) - April CY 2015 Update. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2015-02-24
+:::uid mrepm10020r1472otn
+:::index mrepm10020r1472otn
+:::file \r1472otn.pdf
+:::wn 2015-03-05
+<h4>Transmittal #1472 Date: February 24, 2015 - International Classification of Diseases, 10th Revision (ICD-10) Testing - Acknowledgement Testing with Providers *Rescinds and Replaces Transmittal 1423, dated August 22, 2014*. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2015-02-27
+:::uid mrepm10020r1473otn
+:::index mrepm10020r1473otn
+:::file \r1473otn.pdf
+:::wn 2015-03-05
+<h4>Transmittal #1473 Date: February 27, 2015 - Correction of the Maintenance of the Medicare Status Code. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2015-02-25
+:::uid mrpm10008r578pi
+:::index mrpm10008r578pi
+:::file \r578pi.pdf
+:::wn 2015-03-05
+<h4>Transmittal #578 Date: February 25, 2015 - Incorporation of Revalidation Policies into Pub. 100-08, Program Integrity Manual (PIM), Chapter 15 *Rescinds and Replaces Transmittal 575, dated February 13, 2015*. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2015-02-27
+:::uid mrpm10008r581pi
+:::index mrpm10008r581pi
+:::file \r581pi.pdf
+:::wn 2015-03-05
+<h4>Transmittal #581 Date: February 27, 2015 - Incorporation of Certain Provider Enrollment Policies in CMS-6045-F into Pub. 100-08, Program Integrity Manual (PIM), Chapter 15. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2015-02-27
+:::uid mrepm10007r135soma
+:::index mrepm10007r135soma
+:::file \r135soma.pdf
+:::wn 2015-03-05
+<h4>Transmittal #135 Date: February 27, 2015 - Revisions to State Operations Manual (SOM) Appendix J, Part II  Interpretive Guidelines Responsibilities of Intermediate Care Facilities for Individuals with Intellectual Disabilities revisions. An addition of a New Exhibit to the State Operations Manual (SOM) for Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID), Probes and Procedures for Appendix J, Part II  Interpretive Guidelines- Responsibilities of Intermediate Care Facilities for Individuals with Intellectual Disabilities. (PDF)</h4>
+</doc>
+<doc> 
+:::date 2015-02-27
+:::uid mrepm10020r1475otn
+:::index mrepm10020r1475otn
+:::file \r1475otn.pdf
+:::wn 2015-03-05
+<h4>Transmittal #1475 Date: February 27, 2015 - Health Insurance Portability and Accountability Act (HIPAA) EDI Front End Updates for April 2015 *Rescinds and Replaces Transmittal 1440, dated November 06, 2014*. (PDF)</h4>
+</doc>

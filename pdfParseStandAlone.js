@@ -19,7 +19,7 @@ textract(filePath, config, function( err, text ) {
   var pdfText = '';
   var reTitle = /SUBJECT:\s([\S\s]*?)\n{2}/;
   var reDate = /Date:\s(.*?)[\n\r]/;
-  var reAttach = /IV\. ATTACHMENTS:[\S\s]*?(Recurring Update Notification|Manual Instruction|Business Requirements)[\n\r](Recurring Update Notification|Manual Instruction|Business Requirements)?[\n\r]?(Recurring Update Notification|Manual Instruction|Business Requirements)?[\n\r]?/;
+  var reAttach = /ATTACHMENTS:[\S\s]*?(Recurring Update Notification|Manual Instruction|Business Requirements)[\n\r](Recurring Update Notification|Manual Instruction|Business Requirements)?[\n\r]?(Recurring Update Notification|Manual Instruction|Business Requirements)?[\n\r]?/;
   var reRecinds = /(Transmittal\s\d+, dated[\S\s]*?rescinded[\S\s]*?)\n{2}/g;
   var subject = text.match(reTitle)[1];
   var date = text.match(reDate)[1];
@@ -42,21 +42,25 @@ textract(filePath, config, function( err, text ) {
   dateParse.shift();
 
   var months = {
-    "January" : 01,
-    "February" : 02,
-    "March" : 03,
-    "April" : 04,
-    "May" : 05,
-    "June" : 06,
-    "July" : 07,
-    "August" : 08,
-    "September" : 09,
-    "October" : 10,
-    "November" : 11,
-    "December" : 12
+    "January" : "01",
+    "February" : "02",
+    "March" : "03",
+    "April" : "04",
+    "May" : "05",
+    "June" : "06",
+    "July" : "07",
+    "August" : "08",
+    "September" : "09",
+    "October" : "10",
+    "November" : "11",
+    "December" : "12"
   };
 
   var month = months[dateParse[0]];
+  if (month.length === 1) {
+    month = "0" + month.toString();
+    console.log("months: " + month);
+  }
   var day = dateParse[1];
   if (day.length === 1) {
     day = "0" + day;
@@ -179,6 +183,6 @@ textract(filePath, config, function( err, text ) {
       attachments = attachments + "\n";
       fs.appendFileSync('attachments.txt', attachments);
     }
-
+  console.log("this is the doc:" + doc);
   fs.appendFileSync('allTransmittals.txt', doc);
 });

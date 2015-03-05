@@ -134,9 +134,9 @@
           </div>
           <div role="search">
             <label id="searchBoxLabel" class="HiddenText" for="query-input">Search CMS.gov</label>
-            <input type ="text" name="q" ID="query-input" autocomplete="off"> </input>
-            <input id="btnG" class="searchButton" type="submit" value="Search"/>
-          </div>
+            <input type ="text" name="q" ID="query-input" autocomplete="off" />
+              <input id="btnG" class="searchButton" type="submit" value="Search"/>
+            </div>
           <!--<input id="btnG" type="image" src="//assets.cms.gov/resources/cms/images/buttons/search.png" alt="Search" height="21px" width="63px" />-->
         </form>
       </div>
@@ -151,7 +151,7 @@
       <div class="navbar">
         <ul>
           <li>
-            <a href="/Medicare/Medicare.html" title="Medicare" class="nav-short">Medicare</a>
+            <a href="http://www.cms.gov/Medicare/Medicare.html" title="Medicare" class="nav-short">Medicare</a>
           </li>
           <li>
             <a href="http://www.medicaid.gov/" title="Medicaid.gov">Medicaid/CHIP</a>
@@ -371,7 +371,7 @@
             <div class="get-email-update-widget">
               <label for="signup-email-update">Receive Email Updates</label>
               <form class="email-form" action="https://public-dc2.govdelivery.com/accounts/USCMS/subscribers/qualify">
-                <input id="qsp" type="hidden" value="CODE_RED" name="qsp"/>
+                <input id="qsp" type="hidden" value="CODE_RED" name="qsp" />
                 <input class="long" name="email" type="text" id="signup-email-update" onfocus="this.value=''" title="Receive Email Updates" />
                 <input class="form_button" id="email-submit" name="email-submit" type="submit" value="Submit" />
               </form>

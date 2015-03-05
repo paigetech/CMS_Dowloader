@@ -1,0 +1,46 @@
+r578pi Manual Update<doc> 
+:::date 2015-02-25
+:::uid mrpm10008r578pirecur
+:::index mrpm10008r578pirecur
+:::file \r578pi.pdf
+:::wn 2015-03-05
+<h4>03/5/ Transmittal #578Incorporation of Revalidation Policies into Pub. 100-08, Program Integrity Manual (PIM), Chapter 15 *Rescinds and Replaces Transmittal 575, dated February 13, 2015*  (PDF)</h4>
+</doc>
+ BusReq 
+<doc> 
+:::date 2015-02-25
+:::uid mrpm10008r578pibusreq
+:::index mrpm10008r578pibusreq
+:::file \r578pi.pdf
+:::wn 2015-03-05
+<h4>03/5/ Transmittal #578 Incorporation of Revalidation Policies into Pub. 100-08, Program Integrity Manual (PIM), Chapter 15 *Rescinds and Replaces Transmittal 575, dated February 13, 2015* (PDF)</h4>
+</doc>
+
+r581pi Manual Update<doc> 
+:::date 2015-02-27
+:::uid mrpm10008r581pirecur
+:::index mrpm10008r581pirecur
+:::file \r581pi.pdf
+:::wn 2015-03-05
+<h4>03/5/ Transmittal #581Incorporation of Certain Provider Enrollment Policies in CMS-6045-F into Pub. 100-08, Program Integrity Manual (PIM), Chapter 15  (PDF)</h4>
+</doc>
+ BusReq 
+<doc> 
+:::date 2015-02-27
+:::uid mrpm10008r581pibusreq
+:::index mrpm10008r581pibusreq
+:::file \r581pi.pdf
+:::wn 2015-03-05
+<h4>03/5/ Transmittal #581 Incorporation of Certain Provider Enrollment Policies in CMS-6045-F into Pub. 100-08, Program Integrity Manual (PIM), Chapter 15 (PDF)</h4>
+</doc>
+
+r135soma BusReq 
+<doc> 
+:::date 2015-02-27
+:::uid mrepm10007r135somabusreq
+:::index mrepm10007r135somabusreq
+:::file \r135soma.pdf
+:::wn 2015-03-05
+<h4>03/5/ Transmittal #135 Revisions to State Operations Manual (SOM) Appendix J, Part II  Interpretive Guidelines Responsibilities of Intermediate Care Facilities for Individuals with Intellectual Disabilities revisions. An addition of a New Exhibit to the State Operations Manual (SOM) for Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID), Probes and Procedures for Appendix J, Part II  Interpretive Guidelines- Responsibilities of Intermediate Care Facilities for Individuals with Intellectual Disabilities (PDF)</h4>
+</doc>
+
